@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{32D48522-C3BA-46C0-9A4B-8EAE3C0FF233}"
+	ProjectSection(SolutionItems) = preProject
+		about.html = about.html
+		citycommissions.html = citycommissions.html
+		festivals.html = festivals.html
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{B9DEDD1D-D4DD-4CB4-AA62-195D0E574C13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{6932F44A-E7DB-4A64-8236-05D8C5AC9AD5}"
+	ProjectSection(SolutionItems) = preProject
+		style.css = style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{115E0A94-BD41-4E8F-8869-99B85477D644}"
+	ProjectSection(SolutionItems) = preProject
+		assets\images\a_alder_hands_on_studio.jpg = assets\images\a_alder_hands_on_studio.jpg
+		assets\images\CAB_Ellis_Hutch_2_BW.jpg = assets\images\CAB_Ellis_Hutch_2_BW.jpg
+		assets\images\CAB_Ellis_Hutch_3_BW.jpg = assets\images\CAB_Ellis_Hutch_3_BW.jpg
+		assets\images\CAB_Ellis_Hutch_BW.jpg = assets\images\CAB_Ellis_Hutch_BW.jpg
+		assets\images\CAB_Hanna_Quinlivan.jpg = assets\images\CAB_Hanna_Quinlivan.jpg
+		assets\images\CAB_Lizzie_Hall_BW.jpg = assets\images\CAB_Lizzie_Hall_BW.jpg
+		assets\images\CAB_logo.png = assets\images\CAB_logo.png
+		assets\images\CAB_S_A_Adair.jpg = assets\images\CAB_S_A_Adair.jpg
+		assets\images\CAB_S_A_Adair_BW.jpg = assets\images\CAB_S_A_Adair_BW.jpg
+		assets\images\CAB_Sian_Watson_BW.jpg = assets\images\CAB_Sian_Watson_BW.jpg
+		assets\images\m_s_cancer_council_act.jpeg = assets\images\m_s_cancer_council_act.jpeg
+		assets\images\s_h_headspace_canberra.jpg = assets\images\s_h_headspace_canberra.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6932F44A-E7DB-4A64-8236-05D8C5AC9AD5} = {B9DEDD1D-D4DD-4CB4-AA62-195D0E574C13}
+		{115E0A94-BD41-4E8F-8869-99B85477D644} = {B9DEDD1D-D4DD-4CB4-AA62-195D0E574C13}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {227096DE-0910-48C9-965A-F3E89F6BE8B8}
+	EndGlobalSection
+EndGlobal

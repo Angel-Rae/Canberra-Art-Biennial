@@ -1,0 +1,311 @@
+﻿
+*{
+    padding:0;
+    margin:0;
+    text-decoration:none;
+    list-style:none;
+    box-sizing:border-box;
+}
+
+nav ul{
+   padding-left: 15%;
+   
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+    padding-inline: 40px;
+}
+
+
+nav ul li a {
+    color:black;
+    font-family: 'Lucida Sans';
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: 7px 13px;
+    border-radius: 3px;
+}
+
+@media (max-width: 952px) {
+    nav ul li a {
+        font-size: 12px;
+    }
+
+    @media (max-width: 8580x) {
+        ul {
+            position: fixed;
+            width: 100%;
+            height: 100vh;
+        }
+    }
+}
+#backgroundImg {
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width:contain;
+    background-size: cover;
+}
+#logo {
+    margin: 1% 3%;
+    width: 400px;
+    height: 60px;
+    -webkit-backface-visibility: hidden;
+    -ms-transform: translateZ(0); /* IE 9 */
+    -webkit-transform: translateZ(0); /* Chrome, Safari, Opera */
+    transform: translateZ(0);
+}
+
+#title{
+    font-family: serif;
+    font-size: 4rem;
+    font-weight: 800;
+    color: black;
+    padding-top: 5%;
+    margin-left: 9%;
+}
+
+h2 {
+    font-family: sansita;
+    font-weight: 600;
+    padding-top: 5%;
+    font-size: 3rem;
+    color:navy;
+    margin-left: 10%;
+}
+
+h3 {
+    padding-top: 15%;
+    font-family: Ebrima;
+    font-size: 2rem;
+    color: navy;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    margin-left: 15%;
+}
+
+#homeparagraph {
+    font-size: 1.2rem;
+    color: black;
+    padding-left: 10%;
+    font-family: Cambria;
+    width: 80%;
+    margin-left:10%;
+}
+
+#acknowledgement {
+    font-family: Cambria;
+    color: darkturquoise;
+    font-size: 1.2rem;
+    padding-top: 20%;
+    margin-left: 10%;
+    padding-bottom: 10%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+    grid-gap: 1em;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.image-listing {
+    position: relative;
+}
+
+.CAB-image {
+    line-height: 0;
+}
+
+.image-title {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(90,0,10,0.4);
+    /* typographic styles */
+    color: darkslateblue;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+    /* position the text centrally*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* hide the title by default */
+    opacity: 0;
+    transition: opacity .5s;
+}
+
+.image-listing:hover .image-title {
+    opacity: 1;
+    z-index: 1;
+    background: 0;
+}
+
+.CAB-image img {
+    filter: blur(0px);
+    transition: filter 0.3s ease-in;
+}
+
+.image-listing:hover .CAB-image img {
+    filter: blur(2px);
+}
+
+.CAB-image img {
+    filter: blur(0px);
+    transition: filter 0.3s ease-in;
+}
+
+.image-listing:hover .CAB-image img {
+    filter: blur(2px);
+}
+
+h1 {
+    font-family: serif;
+    font-size: 4rem;
+    font-weight: 800;
+    color: black;
+    padding-top: 5%;
+    margin-left: 9%;
+}
+
+h4 {
+    font-family: sansita;
+    font-weight: 600;
+    padding-top: 5%;
+    font-size: 3rem;
+    color: navy;
+    margin-left: 10%;
+}
+
+.aboutparagraph {
+    font-size: 1.2rem;
+    color: black;
+    padding-left: 1%;
+    font-family: Cambria;
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+#festival1 {
+    font-family: serif;
+    font-size: 4rem;
+    font-weight: 800;
+    color: black;
+    padding-top: 5%;
+    margin-left: 9%;
+}
+
+#festival3 {
+    padding-top: 3%;
+    font-family: Ebrima;
+    font-size: 2rem;
+    color: darkturquoise;
+    padding-bottom: 5%;
+    margin-left: 5%;
+}
+
+#festival4 {
+    font-family: sansita;
+    font-weight: 600;
+    padding-top: 15%;
+    font-size: 3rem;
+    color: navy;
+    margin-left: 10%;
+}
+
+#one {
+    font-size: 1.2rem;
+    color: black;
+    padding-left: 1%;
+    font-family: 'Century Gothic';
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 10%;
+    padding-bottom: 2%;
+}
+
+.festivalparagraph {
+    font-size: 1.2rem;
+    color: black;
+    padding-left: 1%;
+    font-family: Cambria;
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 10%;
+}
+
+#commissions4 {
+    font-family: sansita;
+    font-weight: 600;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 2rem;
+    color: navy;
+    margin-left: 10%;
+}
+
+#commissionsp {
+    font-size: 1.2rem;
+    color: black;
+    padding-left: 1%;
+    font-family: Cambria;
+    width: 80%;
+    margin-left: 9%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+h5{
+    font-size: 2rem;
+    color:black;
+    padding-left: 1%;
+    font-family: serif;
+    font-weight:800;
+    margin-left: 10%;
+    padding-top: 10%;
+
+}
+
+h6 {
+    font-size: 1.2rem;
+    color: black;
+    padding-left: 1%;
+    font-family: 'Lucida Sans';
+    font-weight:100;
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+#commissions p {
+    font-size: 1.2rem;
+    color: black;
+    padding-left: 1%;
+    font-family: Cambria;
+    font-weight: 400;
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 5%;
+}
+
+.commission-image{
+   width:600px;
+   height: 600px;
+   margin-left: 11%;
+}
+

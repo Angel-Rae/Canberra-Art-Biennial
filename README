@@ -1,0 +1,70 @@
+# Reflection
+
+### Assignment 1
+
+#### Front End Web Design
+
+###### Student- Angel-Rae Kennedy-Boddy
+
+###### ID-U3199332
+
+
+In the beginning of this assignment, I decided to go for a simple and sleek design.
+The reason for this is because I thought a sleeker design would be a lot more easier on the eye,
+and this way I can focus on the code basics and add more details as I go along.
+Upon reflection I added more details than I thought I would be able too, as I thought I would struggle a lot more with this assignment than I did.
+I did find it difficult to make the website look visually appealing, I was able to identify certain aspects of other websites
+in which I liked, but I struggle to execute those ideas into my own website.
+Through this assignment I become quite comfortable with code and even enjoyed it.
+I was pleasantly surprised when I got to the point of wanting to add more details, such as the nav bar animation.
+As I genuinely didn't think I would get to that point, I really lacked confidence in my ability in the beginning.
+I did struggle with a few things, the photo grid on the index page especially.
+Trying to get the photo grid to position the way that I wanted took a few goes, mostly just in terms of all the different types of padding involved.
+The initial nav bar also took me a few tries, just because of how intricate it seemed to be to make it layout in such a simple and basic way.
+In terms of visual aspects, I think the home page looks the best. 
+I do wish I experimented more with different layout designs, I just wasn't sure of how to make it look good at the time.
+I really wanted to add more elements, such as social media icons.
+I watched a fair few tutorials on it and was quite confused, I just wasn't sure if I was doing it right or if it required javascript or bootstrap.
+I wish I was able to add them, I think it would have definitely made my footer look a lot better.
+I left the footer empty as I wasn't sure what else to put into it besides the social media icons.
+The biggest struggle I have found whilst creating the website was trying to make it responsive, I had watched an obsurd amount of tutorials,
+as well as reading different explanations and code examples.
+And no matter what, the slightest change I made within my code would then throw everything else off.
+I have learned in an excruciating way that making a website responsive should be considered at the begining rather than closer to the end,
+because I have not been able to convert mine into being responsive very succesfully.
+Every time I would try to adjust the main cover image on the pages, it would throw everything else out of place.
+After many hours I managed to get almost everything to a somewhat pleasant responsive point.
+As a first attempt I am pretty impressed with what I managed to accomplish, as I didn't think I would be able to do most of what I managed.
+Though the website could use a lot of improvements, i'm genuinely surprised and happy with what I have done so far.
+I have learnt a lot and there are a lot of things I would like to continue to learn how to change and to improve, 
+I am genuinely surprised I enjoyed this as much as I did.
+
+Sources
+
+W3Schools. https://www.w3schools.com/. Providing css and html tutorials.
+The WebShala. (2021, January, 5th). Responsive Navbar using html & css, no javascript [video]. YouTube https://www.youtube.com/watch?v=RqM5Wzuil5U
+AssamWebTech. (2021, September, 23rd). How to create a Responsive Navigation menu bar [video]. YouTube https://www.youtube.com/watch?v=Io4gfEviZP8
+JavaScript Academy. (2021, October, 2nd). Responsive Navigation Bar with mobile menu Using HTML & CSS [video]. YouTube https://www.youtube.com/watch?v=OjQP7rPwJyE&t=119s
+Easy Tutorials. (2020, September, 27th). How To Make Responsive Website Design Using HTML And CSS Step By Step [video]. YouTube https://www.youtube.com/watch?v=lAOkx2yZESY&t=198s
+Powell, K. (2021, August, 19th). 5 simple tips to making responsive layouts the easy way [video]. YouTube https://www.youtube.com/watch?v=VQraviuwbzU&t=582s
+Divinector. (2019, June, 11th). How to make a Fixed Navigation Bar using HTML CSS, Collapsing Header Tutorial [video]. YouTube https://www.youtube.com/watch?v=BkbkUtrLkls&t=29s
+CodingNepal. (2019, August, 9th). How to Create Responsive Navigation Bar using HTML and CSS [video]. YouTube https://www.youtube.com/watch?v=oLgtucwjVII&t=54s
+Six Minutes. Smarter. (2019, November, 5th). Create a Responsive Webpage Layout for Phones and Tablets [video]. YouTube https://www.youtube.com/watch?v=XTkDLeMy-7Q&t=102s
+Coding Artist. (2021, January, 19th). Draw Underline Link Hover Effect, CSS Menu Hover Effect [video]. YouTube https://www.youtube.com/watch?v=aswRKAjjWuE
+Elfsight. (2021, January, 20th). How to Add Social Media Icons Widget to HTML (2021) [video]. Youtube. https://www.youtube.com/watch?v=DDwcZrovqMk&t=1s
+Divinector. (2020, September, 3rd). CSS Footer Design, Responsive footer design html css [video]. YouTube https://www.youtube.com/watch?v=CWINCpRwd6w
+Coding Maker. (2021, September, 21st). Social Media Icons Using HTML CSS [video]. YouTube https://www.youtube.com/watch?v=XB__WpfItOQ
+Code Opacity. (2020, October, 15th). Footer Html Css, website footer design [video]. Youtube https://www.youtube.com/watch?v=zdA3qZNH1vc&t=181s
+Melvine, A. (2019, March, 16th). Design a footer that sticks to the bottom of the page, Designing a Blog with HTML and CSS #6 [video]. Youtube https://www.youtube.com/watch?v=o-cKmAeNJiA&t=7s
+LearnCode.academy. (2018, November, 30th). HTML CSS TUTORIAL FOR BEGINNERS-multiple pages [video]. YouTube https://www.youtube.com/watch?v=iXSSHlOe47s
+Bradley, T. (2015, Feburary, 19th). Navigation: linking multiple pages [video]. YouTube https://www.youtube.com/watch?v=ZeMMvgCR7aU
+Six Minutes. Smarter. (2021, May, 31st). Create a Simple CSS Grid Template Layout for a Photo Array r Products Display [video]. YouTube https://www.youtube.com/watch?v=Pip8s2BpelM&t=233s
+Easy Tutorials. (2020, August, 10th). How To Make A Website Header Using HTML And CSS Step by Step, Web Design In HTML & CSS [video]. YouTube https://www.youtube.com/watch?v=Oa9LTDR9ugU&t=486s
+dcode. (2021, August, 3rd). How to Create an Image Grid Gallery-HTML, CSS Web Design Tutorial [video]. YouTube https://www.youtube.com/watch?v=rnhoY5Cdmy0
+Easy Tutorials. (2020, August, 30th). How To Make Website Using HTML & CSS Step By Step, Modern Web Design Tutorial [video]. YouTube https://www.youtube.com/watch?v=rnhoY5Cdmy0
+Powell, K. (2016, November, 5th). HTML & CSS for Beginners Part 13: Background Images [video]. YouTube https://www.youtube.com/watch?v=33IinMVJf-M
+CatsWhoCode. https://catswhocode.com/how-to-make-a-responsive-website/. Providing HTML and CSS tutorials.
+Dzone. Using CSS/HTML to Make a Responsive Website in 3 Easy Steps. https://dzone.com/articles/using-csshtml-make-responsive. Providing HTML and CSS tutorials and explanations.
+
+
+![Website sketches] (Website_sketches.jpg)
